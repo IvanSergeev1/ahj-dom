@@ -1,5 +1,7 @@
 [Ссылка на проект](https://ivansergeev1.github.io/ahj-dom/)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/23b8qrdapg8plaj8?svg=true)](https://ci.appveyor.com/project/IvanSergeev1/ahj-dom)
+
 
 ### Перемещение элемента
 
